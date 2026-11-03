@@ -6,7 +6,7 @@ Plain Sight
 
 After publishing this repository with GitHub Pages, add the site URL here. If your GitHub username is `shashwatshukla3291` and the repository is named `plain-sight`, the URL will be:
 
-`file:///Users/shashwatshukla/Documents/Codex/2026-10-28/oka/outputs/plain-sight/index.html#reader`
+`https://shashwatshukla3291.github.io/Policysimplifier/`
 
 ## Features
 
